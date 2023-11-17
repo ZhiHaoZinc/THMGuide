@@ -19,3 +19,17 @@ Step 3: Fill up the remaining segments which is the username and password
 Step 4: Fill up the onboarding information accordingly
 ![image](https://github.com/ZhiHaoZinc/THMGuide/assets/149494620/7b15a8d3-7d52-441f-8a4a-65de21e4883b)
 
+# Join A Room Guide
+To join a room, follow these steps:
+
+Step 1: Each of the room comes with the URL of https://tryhackme.com/room/... , key in the code behind the url that will be given in SOI club IG story or the code that is published here behind
+E.g. Code: introzct => https://tryhackme.com/room/introzct
+
+OR
+
+Step 2: Go to My Rooms
+![image](https://github.com/ZhiHaoZinc/THMGuide/assets/149494620/9e9642d7-b814-4f9b-8f12-328727b0dc58)
+
+Step 3: Type the code E.g. kaliisback
+![image](https://github.com/ZhiHaoZinc/THMGuide/assets/149494620/53f36ec9-9e94-432d-9eb2-e40a0369f821)
+
