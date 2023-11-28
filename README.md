@@ -22,8 +22,8 @@ Step 4: Fill up the onboarding information accordingly
 # Join A Room Guide
 To join a room, follow these steps:
 
-Step 1: Each of the room comes with the URL of https://tryhackme.com/room/... , key in the code behind the url that will be given in SOI club IG story or the code that is published here behind
-E.g. Code: introzct => https://tryhackme.com/room/introzct
+Step 1: Each of the room comes with the URL of https://tryhackme.com/jr/... or https://tryhackme.com/room/... , key in the code behind the url that will be given in SOI club IG story or the code that is published here behind
+E.g. Code: introzct => https://tryhackme.com/jr/introzct or https://tryhackme.com/room/introzct
 
 OR
 
